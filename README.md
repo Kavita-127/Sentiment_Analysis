@@ -54,14 +54,14 @@ The model is trained using TF-IDF vectorization and a Linear Support Vector Mach
 
 ## 🎯 Model Accuracy
 
-Accuracy: **YOUR_ACCURACY%**
+Accuracy: **81%**
 
 ---
 
 ## 🌐 Live Demo
 
 🔗 **Live App:**  
-https://YOUR_APP_LINK.streamlit.app
+[http://localhost:8503/](http://localhost:8503/)
 
 ---
 
@@ -69,17 +69,13 @@ https://YOUR_APP_LINK.streamlit.app
 
 ### ✅ Positive Review Prediction
 
-(Add your positive screenshot file name below)
-
-![Positive Prediction](positive_review.png)
+![Positive Prediction](Positive Review.png)
 
 ---
 
 ### ❌ Negative Review Prediction
 
-(Add your negative screenshot file name below)
-
-![Negative Prediction](negative_review.png)
+![Negative Prediction](Negative Review.png)
 
 ---
 
