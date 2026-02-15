@@ -8,7 +8,7 @@ The model is trained using **TF-IDF vectorization** and a **Linear Support Vecto
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python  
 - Pandas  
@@ -20,7 +20,7 @@ The model is trained using **TF-IDF vectorization** and a **Linear Support Vecto
 
 ---
 
-## 🧠 NLP Techniques Used
+## NLP Techniques Used
 
 - Text preprocessing (lowercasing, punctuation removal, stopword removal)  
 - Stopword removal  
@@ -30,7 +30,7 @@ The model is trained using **TF-IDF vectorization** and a **Linear Support Vecto
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Restaurant_Reviews.tsv**  
 - 1000 labeled restaurant reviews  
@@ -41,7 +41,7 @@ Target labels:
 
 ---
 
-## ⚙️ Model Workflow
+## Model Workflow
 
 1. Load dataset  
 2. Perform text preprocessing  
@@ -54,13 +54,13 @@ Target labels:
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 Accuracy: **81%**
 
 ---
 
-## 📸 Application Preview
+## Application Preview
 
 ### ✅ Positive Review Prediction
 ![Positive Prediction](Positive_Review.png)
@@ -72,22 +72,25 @@ Accuracy: **81%**
 
 ---
 
-## 💻 Running the Application Locally
+## Running the Application Locally
 
-Follow these steps to run the project on your system:
+Follow these steps to run the project :
 
-### 1️⃣ Clone the repository
+### 1️. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/restaurant-sentiment-analysis.git
-cd restaurant-sentiment-analysis
+git clone https://github.com/Kavita-127/Sentiment_Analysis.git
+cd Sentiment_Analysis
+```
 
-### 2️⃣ Install required dependencies
+### 2️. Install required dependencies
 
 ```bash
 pip install -r requirements.txt
+```
 
-### 3️⃣ Run the Streamlit application
+### 3️. Run the Streamlit application
 
 ```bash
 streamlit run app.py
+```
