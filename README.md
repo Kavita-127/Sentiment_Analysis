@@ -88,15 +88,16 @@ Accuracy: **81%**
 
 ---
 
-## 💻 How to Run Locally
+## 💻 Running the Application Locally
 
-```bash
-# Clone repository
-git clone https://github.com/Kavita-127/Sentiment_Analysis.git
-cd Sentiment_Analysis
+1. Clone the repository:
+   git clone https://github.com/your-username/restaurant-sentiment-analysis.git
 
-# Install dependencies
-pip install -r requirements.txt
+2. Navigate to the project folder:
+   cd restaurant-sentiment-analysis
 
-# Run Streamlit app
-streamlit run app.py
+3. Install required packages:
+   pip install -r requirements.txt
+
+4. Run the Streamlit app:
+   streamlit run app.py
