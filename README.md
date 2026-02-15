@@ -20,7 +20,7 @@ The model is trained using TF-IDF vectorization and a Linear Support Vector Mach
 
 ---
 
-## 🧠 NLP Techniques Used
+##  NLP Techniques Used
 
 - Text preprocessing (lowercasing, punctuation removal, stopword removal)
 - Bag of Words representation
@@ -29,7 +29,7 @@ The model is trained using TF-IDF vectorization and a Linear Support Vector Mach
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Restaurant_Reviews.tsv**
 - 1000 labeled restaurant reviews
@@ -52,7 +52,7 @@ The model is trained using TF-IDF vectorization and a Linear Support Vector Mach
 
 ---
 
-## 🎯 Model Accuracy
+##  Model Accuracy
 
 Accuracy: **81%**
 
@@ -65,23 +65,19 @@ Accuracy: **81%**
 
 ---
 
-## 📸 Application Preview
+##  Application Preview
 
 ### ✅ Positive Review Prediction
 
-![Positive Prediction](Positive Review.png)
+![Positive Prediction](Positive_Review.png)
 
 ---
 
 ### ❌ Negative Review Prediction
 
-![Negative Prediction](Negative Review.png)
+![Negative Prediction](Negative_Review.png)
 
 ---
-
-## 🚀 Deployment
-
-This application is deployed using Streamlit Community Cloud.
 
 ### Deployment Process:
 
@@ -90,16 +86,14 @@ This application is deployed using Streamlit Community Cloud.
 3. Selected `app.py` as entry point
 4. Deployed publicly
 
-The app automatically redeploys when changes are pushed to GitHub.
-
 ---
 
 ## 💻 How to Run Locally
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_GITHUB_USERNAME/restaurant-sentiment-analysis.git
-cd restaurant-sentiment-analysis
+git clone https://github.com/Kavita-127/Sentiment_Analysis.git
+cd Sentiment_Analysis
 
 # Install dependencies
 pip install -r requirements.txt
